@@ -38,7 +38,7 @@ aws ecs update-service \
 
 ## 🌐 Acesso
 Swagger disponível em:  
-`http://desafiocarrefour-alb-XXXX.sa-east-1.elb.amazonaws.com/swagger/index.html`
+`http://desafiocarrefour-alb-1815672935.sa-east-1.elb.amazonaws.com/swagger/index.html`
 
 ## 🧪 Testes
 - `POST /Lancamentos`
