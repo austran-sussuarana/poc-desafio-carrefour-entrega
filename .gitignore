@@ -1,0 +1,23 @@
+# Ignore arquivos e pastas temporárias do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Ignore diretórios de build
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Ignore arquivos de log, cache e system
+*.log
+*.vsidx
+*.dbmdl
+
+# Terraform state e arquivos locais
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Docker
+**/docker-compose.override.yml
